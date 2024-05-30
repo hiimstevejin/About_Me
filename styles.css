@@ -1,0 +1,31 @@
+#Hero{
+    background-color: #1F2833;
+}
+
+#Education{
+    background-color: #C5C6C7;
+}
+
+.Hero-sub{
+    color: #C5C6C7;
+}
+
+.nav-link h5{
+    color: #45A29E ;
+}
+
+.profile-container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile{
+    border-radius: 8px;
+}
+
+
+.navbar-toggler:hover,
+.navbar-toggler:focus {
+    background-color: #66FCF1;
+}
+
